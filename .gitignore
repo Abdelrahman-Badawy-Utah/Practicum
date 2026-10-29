@@ -1,0 +1,15 @@
+# large raw NHANES exports are not tracked (the trimmed cohort below is)
+data/all_cycles*.csv
+data/*_raw.csv
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# os
+.DS_Store
+Thumbs.db

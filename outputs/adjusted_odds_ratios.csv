@@ -1,0 +1,8 @@
+term,log_odds,odds_ratio,or_low,or_high
+"C(bmi_cat, Treatment('Normal'))[T.Obese]",0.455,1.577,1.465,1.696
+"C(bmi_cat, Treatment('Normal'))[T.Overweight]",0.117,1.124,1.043,1.211
+"C(bmi_cat, Treatment('Normal'))[T.Underweight]",0.105,1.111,0.884,1.398
+"C(age_band, Treatment('18-29'))[T.30-44]",1.165,3.206,2.825,3.639
+"C(age_band, Treatment('18-29'))[T.45-59]",2.022,7.551,6.685,8.529
+"C(age_band, Treatment('18-29'))[T.60-85]",2.859,17.45,15.509,19.634
+"C(gender_group, Treatment('Female'))[T.Male]",0.281,1.324,1.25,1.403

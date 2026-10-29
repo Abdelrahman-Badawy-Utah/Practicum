@@ -1,0 +1,11 @@
+factor,level,reference,n,prevalence_%,likelihood_vs_ref
+bmi_cat,Normal,Normal,15054,10.2,1.0
+bmi_cat,Obese,Normal,14880,15.5,1.53
+bmi_cat,Overweight,Normal,15060,13.5,1.33
+bmi_cat,Underweight,Normal,1047,9.3,0.91
+age_band,18-29,18-29,13341,2.5,1.0
+age_band,30-44,18-29,13335,7.8,3.16
+age_band,45-59,18-29,9912,16.6,6.71
+age_band,60-85,18-29,9453,31.1,12.52
+gender_group,Female,Female,23455,11.3,1.0
+gender_group,Male,Female,22586,14.7,1.3
