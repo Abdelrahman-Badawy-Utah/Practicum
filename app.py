@@ -107,10 +107,3 @@ if rows:
 else:
     st.caption("This profile matches the reference group on every factor, "
                "so no adjustment applies.")
-
-st.info(
-    "This model uses age, gender and BMI only, which explain about a quarter "
-    "of blood-pressure variation. It gives an honest zone for a first-time "
-    "reading, not an exact value. A personal cuff reading remains more accurate "
-    "when one is available.", icon="ℹ️",
-)
